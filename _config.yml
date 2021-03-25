@@ -4,14 +4,14 @@
 baseurl:
 url: https://chenpc1234.github.io/blog
 date_format: "ordinal"
-title: 码志
-subtitle: "陈鹏程-个人博客"
-description: "陈鹏程-个人博客"
-keywords: 陈鹏程-个人博客
+title: 陈鹏程
+subtitle: "个人博客"
+description: "个人博客"
+keywords: 个人博客
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: https://github.com/chenpc1234/blog
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -71,7 +71,7 @@ navs:
 
   -
     href: /links/
-    label: 链接
+    label: 随笔
 
   -
     href: /about/
