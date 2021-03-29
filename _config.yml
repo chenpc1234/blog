@@ -4,10 +4,10 @@
 baseurl:
 url: https://chenpc1234.github.io/blog
 date_format: "ordinal"
-title: 码志
-subtitle: "陈鹏程-个人博客"
-description: "陈鹏程-个人博客"
-keywords: 陈鹏程-个人博客
+title: Mr.Chen's Blog
+subtitle: "个人博客1"
+description: "个人博客2"
+keywords: 个人博客3
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
